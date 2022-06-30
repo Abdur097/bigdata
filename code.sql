@@ -1,5 +1,5 @@
 # Studi kasus 1
-# Melakukan pencarian data dengan menampilkan nama negara, terkonfirmasi, kematian, sembuh dengan menampilkan data berdasarkan angka kematian lebih dari 1 juta
+# Melakukan pencarian data dengan menampilkan nama negara, terkonfirmasi, kematian, sembuh dengan menampilkan data berdasarkan angka kematian lebih dari 100 ribu
 
 SELECT
 country_name,
